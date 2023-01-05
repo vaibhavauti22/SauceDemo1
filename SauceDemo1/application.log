@@ -1,0 +1,43 @@
+2023-01-03 22:28:45,325  INFO [main] SauceDemo1:37 - browser is opened
+2023-01-03 22:28:45,573  INFO [main] SauceDemo1:40 - browser is maximized
+2023-01-03 22:28:59,120  INFO [main] SauceDemo1:45 - url is opened
+2023-01-03 22:28:59,437  INFO [main] SauceDemo1:56 - username is entered
+2023-01-03 22:28:59,536  INFO [main] SauceDemo1:59 - password eneterd
+2023-01-03 22:28:59,641  INFO [main] SauceDemo1:62 - clicked on login button
+2023-01-03 22:28:59,642  INFO [main] SauceDemo1:65 - Went on HomePage
+2023-01-03 22:29:00,094  INFO [main] SauceDemo1:79 - Clicked on Setting Btn
+2023-01-03 22:29:00,245  INFO [main] SauceDemo1:83 - Clicked on LogOut btn
+2023-01-03 22:29:00,245  INFO [main] SauceDemo1:86 - went on login page
+2023-01-03 22:29:00,734  INFO [main] SauceDemo1:94 - browser is closed
+2023-01-03 22:29:00,734  INFO [main] SauceDemo1:95 - End of Program
+2023-01-03 22:29:01,626  INFO [main] SauceDemo1:37 - browser is opened
+2023-01-03 22:29:01,846  INFO [main] SauceDemo1:40 - browser is maximized
+2023-01-03 22:29:15,471  INFO [main] SauceDemo1:45 - url is opened
+2023-01-03 22:29:15,713  INFO [main] SauceDemo1:56 - username is entered
+2023-01-03 22:29:15,786  INFO [main] SauceDemo1:59 - password eneterd
+2023-01-03 22:29:15,885  INFO [main] SauceDemo1:62 - clicked on login button
+2023-01-03 22:29:15,886  INFO [main] SauceDemo1:65 - Went on HomePage
+2023-01-03 22:29:16,160  INFO [main] SauceDemo1:79 - Clicked on Setting Btn
+2023-01-03 22:29:16,285  INFO [main] SauceDemo1:83 - Clicked on LogOut btn
+2023-01-03 22:29:16,285  INFO [main] SauceDemo1:86 - went on login page
+2023-01-03 22:29:16,700  INFO [main] SauceDemo1:94 - browser is closed
+2023-01-03 22:29:16,701  INFO [main] SauceDemo1:95 - End of Program
+2023-01-03 22:29:17,548  INFO [main] SauceDemo1:37 - browser is opened
+2023-01-03 22:29:17,696  INFO [main] SauceDemo1:40 - browser is maximized
+2023-01-03 22:29:42,713  INFO [main] SauceDemo1:45 - url is opened
+2023-01-03 22:29:42,971  INFO [main] SauceDemo1:56 - username is entered
+2023-01-03 22:29:43,045  INFO [main] SauceDemo1:59 - password eneterd
+2023-01-03 22:29:43,142  INFO [main] SauceDemo1:62 - clicked on login button
+2023-01-03 22:29:43,143  INFO [main] SauceDemo1:65 - Went on HomePage
+2023-01-03 22:29:43,553  INFO [main] SauceDemo1:16 - click on all product
+2023-01-03 22:29:43,554  INFO [main] SauceDemo1:17 - Apply the validation
+2023-01-03 22:29:43,626  INFO [main] SauceDemo1:79 - Clicked on Setting Btn
+2023-01-03 22:29:43,747  INFO [main] SauceDemo1:83 - Clicked on LogOut btn
+2023-01-03 22:29:43,749  INFO [main] SauceDemo1:86 - went on login page
+2023-01-03 22:29:44,095  INFO [main] SauceDemo1:94 - browser is closed
+2023-01-03 22:29:44,096  INFO [main] SauceDemo1:95 - End of Program
+2023-01-03 22:29:44,291 DEBUG [AsyncHttpClient-1-4] PoolThreadCache:224 - Freed 4 thread-local buffer(s) from thread: AsyncHttpClient-1-4
+2023-01-03 22:29:44,291 DEBUG [AsyncHttpClient-1-7] PoolThreadCache:224 - Freed 4 thread-local buffer(s) from thread: AsyncHttpClient-1-7
+2023-01-03 22:29:44,291 DEBUG [AsyncHttpClient-1-5] PoolThreadCache:224 - Freed 22 thread-local buffer(s) from thread: AsyncHttpClient-1-5
+2023-01-03 22:29:44,291 DEBUG [AsyncHttpClient-1-6] PoolThreadCache:224 - Freed 2 thread-local buffer(s) from thread: AsyncHttpClient-1-6
+2023-01-03 22:29:44,291 DEBUG [AsyncHttpClient-1-3] PoolThreadCache:224 - Freed 2 thread-local buffer(s) from thread: AsyncHttpClient-1-3
